@@ -1,6 +1,7 @@
-1. 	Install python 64Bit =====JANGAN DI SYSTEM FOLDER======
+1. 	Install python 64Bit (https://www.python.org/downloads/release/python-380/) =====JANGAN DI SYSTEM FOLDER======
 2. 	Install fasttext via git
 	a. >> python -m pip install python-git
 	b. >> git clone https://github.com/facebookresearch/fastText
 	c. >> cd fastText
 	d. >> python setup.py install
+3.	Download english model (https://fasttext.cc/docs/en/crawl-vectors.html)

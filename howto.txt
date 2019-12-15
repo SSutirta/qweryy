@@ -1,0 +1,6 @@
+1. 	Install python 64Bit =====JANGAN DI SYSTEM FOLDER======
+2. 	Install fasttext via git
+	a. >> python -m pip install python-git
+	b. >> git clone https://github.com/facebookresearch/fastText
+	c. >> cd fastText
+	d. >> python setup.py install

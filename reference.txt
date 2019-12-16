@@ -1,0 +1,12 @@
+kaggle.com
+	Notebook reference
+
+paperswithcode.com (state of the art)
+	Reference paper
+
+distill.pub
+	Reference paper
+
+google -> awesome (topik) github
+	Library of reference
+
